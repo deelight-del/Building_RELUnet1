@@ -6,5 +6,5 @@
 
 > RELUs are simple linear equation algorithms that uses Gradient Descent for optimizations. And that is what we are going to be doing exactly.
 
-> The first notebook (how-does-a-neural-net-really-work) is from the fastai course and was used as a guide at some point. The two models made RELU(Reactivation Linear Units) of 1 layer and that of two layers was tested on a test dataset and the RELU1(1 layer) performed better (77%) than RELU2(two layers) (73%). Image is in the RELU notebook. The likely reason for this was referenced in the limitation part of the RELU.ipynb.
+> The first notebook (how-does-a-neural-net-really-work) is from the fastai course and was used as a guide at some point and the actual notebook that was used to make the models from scratch is in the RELU notebook. The two models made RELU(Reactivation Linear Units) of 1 layer and that of two layers was tested on a test dataset and the RELU1(1 layer) performed better (77%) than RELU2(two layers) (73%). Image is in the RELU notebook. The likely reason for this was referenced in the limitation part of the RELU.ipynb.
 
