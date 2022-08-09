@@ -8,3 +8,4 @@
 
 > The first notebook (how-does-a-neural-net-really-work) is from the fastai course and was used as a guide at some point and the actual notebook that was used to make the models from scratch is in the RELU notebook. The two models made RELU(Reactivation Linear Units) of 1 layer and that of two layers was tested on a test dataset and the RELU1(1 layer) performed better (77%) than RELU2(two layers) (73%). Image is in the RELU notebook. The likely reason for this was referenced in the limitation part of the RELU.ipynb.
 
+> Update: The double layer built in the initial version of this notebook was wrong. It has however been corrected and some modifications have been made to include validations set while testing and to have the datasets fed into the model architecture batch by batch using dataloaders.
